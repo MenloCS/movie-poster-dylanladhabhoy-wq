@@ -59,7 +59,7 @@ dark
 - [ ] Object/symbol centered  
 - [ ] Character collage  
 
-- **Focal point description:** A dark tornado the creates a sense of fear. 
+- **Focal point description:** A dark tornado the creates a sense of fear with a character hidden somewhere.. 
 
 ---
 
@@ -69,18 +69,17 @@ dark
 Open Adobe Firefly. Generate images based on your creative brief, but remember: you're exploring possibilities, not looking for a final answer.
 
 **Attempt 1:**  
-- **My prompt:**  
-
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **My prompt:**A dark tornado that creates a sense of fear with a person slightly smaller somewhere.  
+- **What worked:** It was very unrealistic  
+- **What didn't work:**  I wanted it to be less animated.
+- **What I'll change for next attempt:**  I'm going to have it use a dark color plate instead of just black.
 
 **Attempt 2:**  
-- **My prompt:**  
+- **My prompt:**  A tornado that creates a sense of fear with a person slightly smaller somewhere that is very realistic with a dark color pallet More realistic it should look real. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:** It made it more realistic. 
+- **What didn't work:**  The only dark colors.
+- **What I'll change for next attempt:**  I want to zoom out and have it include a field.
 
 ---
 

@@ -89,20 +89,20 @@ Open Adobe Firefly. Generate images based on your creative brief, but remember: 
 Keep refining. Try at least two more meaningfully different directions.
 
 **Attempt 3:**  
-- **My prompt:**  
+- **My prompt:** A tornado that creates a sense of fear with a person slightly smaller somewhere that is very realistic with a dark color pallet More realistic it should look real. It doesnt have to be all black just the tornado and main colors. Also zoom out so that their is a field. 
 
-- **What worked:**  
-- **What didn't work:**  
-- **What I'll change for next attempt:**  
+- **What worked:**  I liked it being more zoomed out.
+- **What didn't work:**  The character didn't work.
+- **What I'll change for next attempt:**  Im going to make the character more hidden.
 
 **Attempt 4:**  
-- **My prompt:**  
+- **My prompt:**A tornado that creates a sense of fear with a person slightly smaller somewhere that is very realistic with a dark color pallet More realistic it should look real. It doesn't have to be all black, just the tornado and main colors. Also, zoom out so that there is a field. Make the character slightly more hidden.  
 
-- **What worked:**  
-- **What didn't work:**  
+- **What worked:** I really like the character being more blended. 
+- **What didn't work:**  I dislike how unrealisic the tornado looks.
 
 **Final AI Image Selected:** (Which attempt? Why?)  
-
+4 because it was the most realistic.
 ---
 
 ## Step 4: Photoshop Modifications

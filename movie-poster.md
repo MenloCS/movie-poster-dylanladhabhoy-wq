@@ -119,8 +119,8 @@ Export your best AI generation and open it in Photoshop. You must make at least 
 - Remove unwanted elements  
 
 **Your Modifications:**  
-1.  
-2.  
+1.  Made the tornado more realistic.
+2.  Had it pick up some dirt.
 3. (optional)  
 
 **Save your final poster as:** `final-poster.jpg` or `final-poster.png`  
